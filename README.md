@@ -1,11 +1,18 @@
-# 📘 Command Executor Service  
-### Microservicio profesional para ejecución segura de comandos del sistema
+# 📘 Command Executor Service 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-green)
+![Maven](https://img.shields.io/badge/Maven-Build-orange)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![JWT](https://img.shields.io/badge/Security-JWT-yellow)
+![Swagger](https://img.shields.io/badge/Docs-Swagger-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+### Microservicio en Java + Spring Boot para ejecución segura de comandos del sistema. Arquitectura limpia, JWT, Swagger y Docker.
 
 Un microservicio construido con **Java + Spring Boot**, diseñado para ejecutar comandos del sistema operativo de forma controlada, segura y documentada. Implementa **arquitectura limpia**, seguridad con **JWT**, documentación con **Swagger**, contenedorización con **Docker** y un diseño orientado a producción.
 
 Este proyecto está pensado para demostrar **dominio técnico**, buenas prácticas y un enfoque profesional en el desarrollo backend moderno.
 
----
 
 ## ✨ Características destacadas
 
