@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  command-executor-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: command-executor-service
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
